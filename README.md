@@ -3,3 +3,6 @@ https://www.canva.com/design/DAGMpUgKszw/NJ5Q8ZYnZZQS9_YDqzjOiQ/edit?utm_content
 
 # Protótipo de telas no Figma
 https://www.figma.com/design/aoF94nN70HIehwWlK9DMu8/AlugArte?node-id=139-110&t=jd0hhkQnYHiw6Spk-1
+
+# AlugArte Kodular
+https://creator.kodular.io/#6466065186947072
